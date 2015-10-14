@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Daily 207 Bonus Python", "Daily 207 Bonus Python\Daily 207 Bonus Python.pyproj", "{EAFCB444-ABBA-4AD5-8E8C-B365B0E0F20E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAFCB444-ABBA-4AD5-8E8C-B365B0E0F20E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFCB444-ABBA-4AD5-8E8C-B365B0E0F20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
